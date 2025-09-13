@@ -88,16 +88,16 @@ I'm a **Full-Stack Developer** passionate about building modern, scalable web ap
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-tosif/">
+  <a href="https://www.linkedin.com/in/mohammed-tosif/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/TechieTosif">
+  <a href="https://x.com/TechieTosif" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="techie.tosif@gmail.com">
+  <a href="techie.tosif@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>  
