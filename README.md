@@ -11,7 +11,7 @@
 
 - 🚀 **Full-Stack Developer (MERN)** with strong fundamentals in frontend & backend  
 - 🎯 Currently focused on **production-grade MERN applications**
-- 💼 Bringing **5.5 years of non-IT professional experience**, strong work ethics & ownership mindset  
+- 💼 Bringing **5.11 years of non-IT professional experience**, strong work ethics & ownership mindset  
 - 🛠️ Building real-world projects to strengthen **logic, architecture & performance**
 - 🌱 Exploring **Next.js, Server Actions, Tailwind CSS & system design basics**
 - 🤝 Open to **internship / junior developer roles / open-source contributions**
@@ -35,7 +35,7 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
 </div>
 
@@ -44,14 +44,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
 </div>
 
 ### 🧩 Tools & Design
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/>
 </div>
 
 ---
@@ -59,7 +59,7 @@
 ## 🚀 Featured Projects
 
 - 🔹 **Portfolio Website**  
-  👉 Portfolio Website using ReactJS (In -Progress)  
+  👉 Portfolio Website using ReactJS  
   🔗 https://github.com/Tosif2230/Portfolio
 
 - 🔹 **Capstone-MERN-YouTube-Clone**  
@@ -87,13 +87,6 @@
 
 ---
 
-## 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tosif2230&theme=tokyonight&no-frame=true&row=1"/>
-</div>
-
----
-
 ## 📈 Contribution Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tosif2230&theme=tokyo-night&hide_border=true"/>
@@ -117,10 +110,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://x.com/TechieTosif" target="_blank">
-    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
   </a>
-  <a href="mailto:techie.tosif@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:techie.tosif@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D82416?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/Tosif2230/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-D14836?style=for-the-badge&logo=leetcode&logoColor=black)"/>
+  </a>
+  <a href="https://codeforces.com/profile/Tosi22" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
